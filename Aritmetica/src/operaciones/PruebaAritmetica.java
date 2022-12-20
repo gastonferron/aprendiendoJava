@@ -5,6 +5,11 @@ public class PruebaAritmetica {
         //Instancio la clase Aritmetica
         Aritmetica aritmetica1 = new Aritmetica();
 
+        //Variables locales
+        var a = 10;
+        var b = 2;
+        miMetodo();
+
         System.out.println("aritmetica1 a: = " + aritmetica1.a);
         System.out.println("aritmetica1 b: = " + aritmetica1.b);
 
@@ -26,5 +31,10 @@ public class PruebaAritmetica {
         //Ejecuta metodo sumarConArgumentos
         resultado = aritmetica1.sumarConArgumentos(5 , 8);
         System.out.println("resultado con argumentos = " + resultado);
+    }
+    public static void miMetodo(){
+        //la variable tiene alcance solo donde fue definida
+        //a = 10;
+        System.out.println("Otro metodo");
     }
 }

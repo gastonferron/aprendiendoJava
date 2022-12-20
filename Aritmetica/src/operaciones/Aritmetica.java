@@ -1,7 +1,7 @@
 package operaciones;
 
 public class Aritmetica {
-    //Atributos
+    //Atributos de la clase
     int a;
     int b;
 
