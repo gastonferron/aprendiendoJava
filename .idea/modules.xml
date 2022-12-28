@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Aritmetica/Aritmetica.iml" filepath="$PROJECT_DIR$/Aritmetica/Aritmetica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arreglos/Arreglos.iml" filepath="$PROJECT_DIR$/Arreglos/Arreglos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulamiento/Encapsulamiento.iml" filepath="$PROJECT_DIR$/Encapsulamiento/Encapsulamiento.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estatico/Estatico.iml" filepath="$PROJECT_DIR$/Estatico/Estatico.iml" />
       <module fileurl="file://$PROJECT_DIR$/Herencia/Herencia.iml" filepath="$PROJECT_DIR$/Herencia/Herencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MundoPC/MundoPC.iml" filepath="$PROJECT_DIR$/MundoPC/MundoPC.iml" />
       <module fileurl="file://$PROJECT_DIR$/Paquete/Paquete.iml" filepath="$PROJECT_DIR$/Paquete/Paquete.iml" />
       <module fileurl="file://$PROJECT_DIR$/Persona/Persona.iml" filepath="$PROJECT_DIR$/Persona/Persona.iml" />
       <module fileurl="file://$PROJECT_DIR$/Udemy.iml" filepath="$PROJECT_DIR$/Udemy.iml" />
